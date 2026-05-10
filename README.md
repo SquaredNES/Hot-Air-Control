@@ -6,7 +6,7 @@ Install Create, Create: Aeronautics, CC: Tweaked, and CC: Redstone Link Bridge, 
 Place a computer in your airship<br>
 Place an altitude sensor on top of the computer (will be important for calibration when i add that)<br>
 Place a redstone link bridge on the right side of the computer<br>
-Run ```wget run https://pinestore.cc/d/236```<br>
+Run ```wget run https://pinestore.cc/d/236``` (if that doesn't work, run ```pastebin run feTcvN3g```)<br>
 Run ```calibrate-airship```<br>
 Follow instructions in console<br>
 # How to use
